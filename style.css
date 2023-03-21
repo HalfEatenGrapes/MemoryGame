@@ -1,0 +1,12 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  background-color: rgba(0, 166, 255, 0.205);
+  /* background-image: url("https://images.unsplash.com/photo-1479750178258-aec5879046ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcmQlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
