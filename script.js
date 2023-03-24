@@ -92,7 +92,7 @@ function handleCardClick(event) {
 
   if (cardsHidden === 0) {
     event.target.style.backgroundColor = event.target.className;
-    alert("You Win!!");
+    alert("You are looking great today!!");
   }
 }
 
