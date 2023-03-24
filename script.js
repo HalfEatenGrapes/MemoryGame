@@ -2,14 +2,14 @@ const gameContainer = document.getElementById("game");
 
 const COLORS = [
   "red",
-  "blue",
-  "green",
-  "orange",
-  "purple",
   "red",
   "blue",
+  "blue",
+  "green",
   "green",
   "orange",
+  "orange",
+  "purple",
   "purple",
 ];
 
