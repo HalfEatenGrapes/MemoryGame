@@ -92,7 +92,22 @@ function handleCardClick(event) {
 
   if (cardsHidden === 0) {
     event.target.style.backgroundColor = event.target.className;
-    alert("You are looking great today!!");
+    let draw = Math.floor(Math.random() * 6);
+    if (draw === 1) {
+      alert("You're looking great today!!");
+    }
+    if (draw === 2) {
+      alert("You are getting really good at this game!!");
+    }
+    if (draw === 3) {
+      alert("Birds aren't real!");
+    }
+    if (draw === 4) {
+      alert("I'm so proud of you :)");
+    }
+    if (draw === 5) {
+      alert("Go ahead...Play again. I won't tell");
+    }
   }
 }
 
